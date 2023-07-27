@@ -5,8 +5,8 @@
 ## so make sure that you only define functions
 
 _kc_asdf_custom_arch() {
-  local os="$KC_ASDF_OS" arch="$1"
-  [[ "$os" == "apple-darwin" ]] &&
+  local arch="$1"
+  kc_asdf_is_darwin &&
     arch="x86_64"
   printf "%s" "$arch"
 }
