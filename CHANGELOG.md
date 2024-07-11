@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.1](https://github.com/kc-workspace/asdf-hyperfine/compare/v1.0.0...v1.0.1) (2024-07-11)
+
+
+### Performance Improvements
+
+* **plugin:** update template version [bot] ([2e3c574](https://github.com/kc-workspace/asdf-hyperfine/commit/2e3c574620ada6d2d85beff819a8d5043d39caf1))
+* update plugin from template [autocommit] ([e734921](https://github.com/kc-workspace/asdf-hyperfine/commit/e734921295dcae66c9563962ebb4983eae64b9f5))
+* update plugin from template [autocommit] ([3067a18](https://github.com/kc-workspace/asdf-hyperfine/commit/3067a18d35a887f97f564e0fc412ec70cc94973d))
+
 ## 1.0.0 (2023-11-06)
 
 
